@@ -41,7 +41,8 @@
     "react-native-svg-transformer": "^1.0.0",
     "react-native-uuid": "^2.0.1",
     "react-native-web": "~0.18.9",
-    "react-redux": "^8.0.5"
+    "react-redux": "^8.0.5",
+    "expo-dev-client": "~2.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
